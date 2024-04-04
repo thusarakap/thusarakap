@@ -39,6 +39,7 @@ I am a Computer Science student with a passion for both software and hardware.
 
 :mailbox: Reach me at:   [![Linkedin Badge](https://img.shields.io/badge/-Thusaraka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thusaraka/)
 
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 
