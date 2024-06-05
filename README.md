@@ -45,11 +45,11 @@ I am a Computer Science student with a passion for both software and hardware.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,electron,nodejs,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,electron,nodejs,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
 
 ---
 
@@ -60,18 +60,3 @@ I am a Computer Science student with a passion for both software and hardware.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusarakap&layout=compact&theme=dark&border_radius=15&)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<!--
-**thusarakap/thusarakap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
