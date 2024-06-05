@@ -45,7 +45,7 @@ I am a Computer Science student with a passion for both software and hardware.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,tailwind)](https://skillicons.dev)
 
 <br>
 
