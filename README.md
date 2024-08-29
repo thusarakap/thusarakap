@@ -45,11 +45,11 @@ I am a Computer Science student with a passion for both software and hardware.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,dart,html,css,tailwind)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,electron,nodejs,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,electron,nodejs,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
 
 ---
 
