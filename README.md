@@ -49,7 +49,7 @@ I am a Computer Science student with a passion for both software and hardware.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,electron,nodejs,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,electron,nodejs,gcp,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
 
 ---
 
